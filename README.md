@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, ben Engincan Araz</h1>
+<h1 align="center">Merhaba 👋 Ben Engincan Araz</h1>
 
 <p align="left">
   Frontend geliştirme alanında kendimi geliştirme yolculuğundayım 🚀.  
