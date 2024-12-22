@@ -1,7 +1,6 @@
 <h1 align="center">Merhaba 👋, ben Engincan Araz</h1>
 
 <p align="left">
-  Merhaba, ben Engincan! 👋  
   Frontend geliştirme alanında kendimi geliştirme yolculuğundayım 🚀.  
   Kendimi sürekli geliştirmeyi ve öğrendiklerimi projelere yansıtarak daha fazla deneyim kazanmayı hedefliyorum 💡.  
   Eğer bu süreçte birlikte çalışmak, fikir alışverişinde bulunmak veya destek olmak isterseniz, mesajlarınızı memnuniyetle bekliyorum! 💬
