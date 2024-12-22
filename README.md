@@ -1,14 +1,20 @@
 <h1 align="center">Merhaba 👋, ben Engincan Araz</h1>
 
-
-- 🔭 Şu anda **web geliştirme** üzerinde çalışıyorum
+<p align="left">
+  Merhaba, ben Engincan! 👋  
+  Frontend geliştirme alanında kendimi geliştirme yolculuğundayım 🚀.  
+  Kendimi sürekli geliştirmeyi ve öğrendiklerimi projelere yansıtarak daha fazla deneyim kazanmayı hedefliyorum 💡.  
+  Eğer bu süreçte birlikte çalışmak, fikir alışverişinde bulunmak veya destek olmak isterseniz, mesajlarınızı memnuniyetle bekliyorum! 💬
+</p>
 
 - 📫 Bana nasıl ulaşabilirsiniz **engincan.araz@icloud.com**
 
 <h3 align="left">Benimle iletişime geçin:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/engincanaraz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="engincanaraz" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/engincanaraz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="engincanaraz" height="30" width="40" /></a> </p>
+  <a href="https://linkedin.com/in/engincanaraz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="engincanaraz" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/engincanaraz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="engincanaraz" height="30" width="40" /></a> 
+</p>
+
 
 <h3 align="left">Diller ve Araçlar:</h3>
 <p align="left"> 
