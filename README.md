@@ -6,7 +6,7 @@
   Eğer bu süreçte birlikte çalışmak, fikir alışverişinde bulunmak veya destek olmak isterseniz, mesajlarınızı memnuniyetle bekliyorum! 💬
 </p>
 
-- 📫 Bana nasıl ulaşabilirsiniz **engincan.araz@icloud.com**
+- 📫 Bana nasıl ulaşabilirsiniz **engincanaraz@outlook.com**
 
 <h3 align="left">Benimle iletişime geçin:</h3>
 <p align="left">
