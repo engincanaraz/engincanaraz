@@ -9,11 +9,10 @@
 - 📫 Bana nasıl ulaşabilirsiniz **engincanaraz@outlook.com**
 
 <h3 align="left">Benimle iletişime geçin:</h3>
-<p align="left">
+
   <a href="https://linkedin.com/in/engincanaraz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="engincanaraz" height="30" width="40" /></a>
- 
-</p>
-<p> LinkedIn üzerinden düzenli olarak gönderiler paylaşıyorum 📢. İlginç bulduğunuz konuları tartışmak veya bağlantı kurmak isterseniz sizi bekliyorum! 😊</p>
+
+<p> LinkedIn üzerinden düzenli olarak gönderiler paylaşıyorum. İlginç bulduğunuz konuları tartışmak veya bağlantı kurmak isterseniz sizi bekliyorum! 😊</p>
 
 
 <h3 align="left">Diller ve Araçlar:</h3>
