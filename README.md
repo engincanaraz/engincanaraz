@@ -52,8 +52,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=engincanaraz&show_icons=true&locale=tr&layout=compact" alt="En Çok Kullandığım Diller" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=engincanaraz&show_icons=true&locale=tr" alt="GitHub İstatistiklerim" />
-</p>
+
 
 
