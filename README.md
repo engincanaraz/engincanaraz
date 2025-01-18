@@ -1,57 +1,66 @@
-<h1 align="center">Merhaba 👋 Ben Engincan Araz</h1>
+<h1 align="center">Merhaba! 👋 Ben Engincan Araz</h1>
 
-<p align="left">
-  Frontend geliştirme alanında kendimi geliştirme yolculuğundayım 🚀.  
-  Kendimi sürekli geliştirmeyi ve öğrendiklerimi projelere yansıtarak daha fazla deneyim kazanmayı hedefliyorum 💡.  
-  Eğer bu süreçte birlikte çalışmak, fikir alışverişinde bulunmak veya destek olmak isterseniz, mesajlarınızı memnuniyetle bekliyorum! 💬
+<p align="center">
+  🌟 Frontend geliştirme alanında öğrenme ve gelişme yolculuğundayım.  
+  🚀 Yeni teknolojiler öğrenip projelere yansıtarak daha fazla deneyim kazanmayı hedefliyorum.  
+  ✨ Birlikte çalışmak veya destek olmak isterseniz, mesajlarınızı memnuniyetle beklerim.
 </p>
 
-- 📫 Bana nasıl ulaşabilirsiniz **engincanaraz@outlook.com**
+---
 
-<h3 align="left">Benimle iletişime geçin:</h3>
+### 📫 Bana Ulaşın
+- 📧 **Email:** [engincanaraz@outlook.com](mailto:engincanaraz@outlook.com)  
+- 🌐 **LinkedIn:** [linkedin.com/in/engincanaraz](https://linkedin.com/in/engincanaraz)  
+- ✍️ **Medium:** [medium.com/@engincanaraz](https://medium.com/@engincanaraz)
 
-  <a href="https://linkedin.com/in/engincanaraz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="engincanaraz" height="30" width="40" /></a>
-
-<p> LinkedIn üzerinden düzenli olarak gönderiler paylaşıyorum. İlginç bulduğunuz konuları tartışmak veya bağlantı kurmak isterseniz sizi bekliyorum! 😊</p>
-
-
-<h3 align="left">Diller ve Araçlar:</h3>
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/tr-TR/dokümanlar/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
- 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
+<p align="center">
+  💬 LinkedIn üzerinden düzenli içerikler paylaşıyorum. Konuşmak ya da fikir alışverişinde bulunmak için mutlaka bağlantı kuralım! 😊  
+  📖 Medium'da araştırma notlarımı ve faydalı içeriklere dönüştürdüğüm yazılarımı paylaşıyorum. Okumanızı bekliyorum!
 </p>
 
+---
 
-### 📊 GitHub İstatistiklerim:
+### 🛠️ Kullandığım Teknolojiler
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=engincanaraz&label=Profile%20views&color=0e75b6&style=flat" alt="Profil Görüntülenme Sayısı" /> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
+  </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40" />
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
+  </a>
+</p>
+
+
+---
+
+### 📊 GitHub İstatistiklerim
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=engincanaraz&label=Profil%20Görüntülenme%20Sayısı&color=0e75b6&style=flat" alt="Profil Görüntülenme Sayısı" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=engincanaraz&show_icons=true&locale=tr&layout=compact" alt="En Çok Kullandığım Diller" />
+  <img src="https://github-readme-stats.vercel.app/api?username=engincanaraz&show_icons=true&locale=tr&theme=radical" alt="GitHub İstatistikleri" />
 </p>
-
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=engincanaraz&show_icons=true&locale=tr&layout=compact&theme=radical" alt="En Çok Kullandığım Diller" />
+</p>
