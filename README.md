@@ -1,9 +1,7 @@
 <h1 align="center">Merhaba! 👋 Ben Engincan Araz</h1>
 
 <p align="center">
-  🌟 Frontend geliştirme alanında öğrenme ve gelişme yolculuğundayım.  
-  🚀 Yeni teknolojiler öğrenip projelere yansıtarak daha fazla deneyim kazanmayı hedefliyorum.  
-  ✨ Birlikte çalışmak veya destek olmak isterseniz, mesajlarınızı memnuniyetle beklerim.
+Front-End Developer olarak kariyerime yön vermek için teknik becerilerimi geliştirmeye odaklanıyorum. 🌟 Öğrendiklerimi projelere yansıtarak daha fazla deneyim kazanıyorum. 🚀 Yeni teknolojileri öğrenmeye devam ederek iş hayatına en donanımlı şekilde adım atmayı amaçlıyorum. ✨ Birlikte çalışmak veya destek olmak isterseniz, mesajlarınızı memnuniyetle beklerim.
 </p>
 
 ---
