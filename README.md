@@ -8,8 +8,10 @@ Front-End Developer olarak kariyerime yön vermek için teknik becerilerimi geli
 
 ### 📫 Bana Ulaşın
 - 📧 **Email:** [engincanaraz@outlook.com](mailto:engincanaraz@outlook.com)  
+- 🌐 **Websitesi:** [engincanaraz.com](https://engincanaraz.com)  
 - 🌐 **LinkedIn:** [linkedin.com/in/engincanaraz](https://linkedin.com/in/engincanaraz)  
 - ✍️ **Medium:** [medium.com/@engincanaraz](https://medium.com/@engincanaraz)
+
 
 <p align="center">
   💬 LinkedIn üzerinden düzenli içerikler paylaşıyorum. Konuşmak ya da fikir alışverişinde bulunmak için mutlaka bağlantı kuralım! 😊  
@@ -62,3 +64,13 @@ Front-End Developer olarak kariyerime yön vermek için teknik becerilerimi geli
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=engincanaraz&show_icons=true&locale=tr&layout=compact&theme=radical" alt="En Çok Kullandığım Diller" />
 </p>
+
+
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/engincanaraz" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="160" height="40">
+  </a>
+</p>
+
+
